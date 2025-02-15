@@ -74,11 +74,11 @@ I believe in:
 # 📊 GitHub Stats:
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=qingjiatsang&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&custom_title=Qingjia Tsang's GitHub Stats: &icon_color=6366f1&title_color=6366f1" width="350px" />
+  <img src="https://readmestats.999857.xyz/api?username=qingjiatsang&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&custom_title=Qingjia Tsang's GitHub Stats: &icon_color=6366f1&title_color=6366f1" width="350px" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qingjiatsang&theme=buefy&hide_border=false&ring_color=6366f1&fire_color=6366f1&currStreakLabel_color=6366f1" width="350px" />
+  <img src="https://readmestats.999857.xyz/?user=qingjiatsang&theme=buefy&hide_border=false&ring_color=6366f1&fire_color=6366f1&currStreakLabel_color=6366f1" width="350px" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qingjiatsang&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=6366f1" width="350px" />
+  <img src="https://readmestats.999857.xyz/api/top-langs/?username=qingjiatsang&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=6366f1" width="350px" />
 </div>
 
 ## 🏆 GitHub Trophies
