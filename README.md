@@ -28,7 +28,7 @@ I believe in:
     <img src="https://img.shields.io/badge/👉%20Click%20to%20View%20My%20Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <p align="center">
-    <strong>🌟 Live demos & detailed projects available here! 🌟</strong>
+    <strong>🌟 Interactive Portfolio & detailed projects available here! 🌟</strong>
   </p>
   <hr/>
 </div>
