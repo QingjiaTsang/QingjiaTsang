@@ -35,17 +35,7 @@ I believe in:
 
 ## 🌐 Socials:
 
-<div align="left">
-  <a href="https://x.com/JohnLocke72__" target="_blank" style="text-decoration: none">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="30" height="30" alt="X" />
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/Qingjia_Tsang" target="_blank" style="text-decoration: none">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:johnlocke12321@gmail.com" target="_blank" style="text-decoration: none">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="30" height="30" alt="Email" />
-  </a>
-</div>
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="25" height="25">](https://x.com/JohnLocke72__) &nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25" height="25">](https://linkedin.com/in/Qingjia_Tsang) &nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="25" height="25">](mailto:johnlocke12321@gmail.com)
 
 # 💻 Tech Stack:
 
@@ -53,7 +43,7 @@ I believe in:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SWR](https://img.shields.io/badge/SWR-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Tanstack Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![TanStack Router](https://img.shields.io/badge/TanStack_Router-FF4154?style=flat&logo=react&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Jotai](https://img.shields.io/badge/jotai-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SWR](https://img.shields.io/badge/SWR-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Tanstack Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![TanStack Router](https://img.shields.io/badge/TanStack_Router-FF4154?style=flat&logo=react&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Jotai](https://img.shields.io/badge/jotai-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white)
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white) ![HeroUI](https://img.shields.io/badge/HeroUI-black?style=flat&logo=heroicons&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat&logo=framer&logoColor=blue)
 
@@ -61,24 +51,22 @@ I believe in:
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Hono.js](https://img.shields.io/badge/hono.js-%23FF4B03.svg?style=flat&logo=hono&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat&logo=drizzle&logoColor=black) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat&logo=clerk&logoColor=white) ![Auth.js](https://img.shields.io/badge/Auth.js-000000?style=flat&logo=authjs&logoColor=white) ![Kinde](https://img.shields.io/badge/Kinde-FF4154?style=flat&logo=kinde&logoColor=white)
 
 ### Cloud & Tools
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white)
-
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white) ![Convex](https://img.shields.io/badge/Convex-FF4154?style=flat&logo=convex&logoColor=white)
 
 # 📊 GitHub Stats:
 
 <div>
-  <img src="https://github-readme-stats-flax-ten-25.vercel.app/api?username=qingjiatsang&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&custom_title=Qingjia Tsang's GitHub Stats: &icon_color=6366f1&title_color=6366f1" width="350px" />
+  <img src="https://my-own-github-readme-stats-liart.vercel.app/api?username=qingjiatsang&theme=buefy&hide_border=false&show_icons=true&custom_title=Qingjia%20Tsang%27s%20GitHub%20Stats&icon_color=6366f1&title_color=6366f1&cache_seconds=1800" width="350px" />
   <br/>
-  <img src="https://my-own-github-readme-streak-stats.vercel.app/?user=qingjiatsang&theme=buefy&hide_border=false&ring_color=6366f1&fire_color=6366f1&currStreakLabel_color=6366f1" width="350px" />
+  <img src="https://my-own-github-readme-streak-stats.vercel.app/?user=qingjiatsang&theme=buefy&hide_border=false&ring_color=6366f1&fire_color=6366f1&currStreakLabel_color=6366f1&cache_seconds=1800" width="350px" />
   <br/>
-  <img src="https://github-readme-stats-flax-ten-25.vercel.app/api/top-langs/?username=qingjiatsang&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=6366f1" width="350px" />
+  <img src="https://my-own-github-readme-stats-liart.vercel.app/api/top-langs/?username=qingjiatsang&theme=buefy&hide_border=false&layout=compact&title_color=6366f1&cache_seconds=1800" width="350px" />
 </div>
 
 ## 🏆 GitHub Trophies
@@ -92,3 +80,9 @@ I believe in:
 [![](https://visitcount.itsvg.in/api?id=qingjiatsang&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QingjiaTsang/QingjiaTsang/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QingjiaTsang/QingjiaTsang/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/QingjiaTsang/QingjiaTsang/output/github-snake.svg" />
+</picture>
