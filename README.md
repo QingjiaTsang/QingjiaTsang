@@ -1,6 +1,8 @@
 # 💫 About Me:
 
 <div align="left">
+  
+<img src="https://user-images.githubusercontent.com/83267083/209559829-6d870627-a58f-4dbc-9f17-5cb63db4a4a4.gif" alt="coding gif" width="400" />
 
 ### 👋 Hello, I'm Qingjia Tsang!
 
