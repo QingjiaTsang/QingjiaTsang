@@ -8,7 +8,7 @@ A passionate web developer with a love for building **modern applications**. I t
 
 ### 💡 My Passion & Focus
 
-I'm constantly exploring new technologies and pushing my boundaries. When I'm not coding, you'll find me:
+I'm constantly exploring new technologies and pushing my boundaries. When I'm not building something, you'll find me:
 
 - 🔍 Diving deep into **web development**
 - 📚 Studying **architecture patterns**
