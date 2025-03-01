@@ -61,34 +61,6 @@ I believe in:
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white) ![Convex](https://img.shields.io/badge/Convex-FF4154?style=flat&logo=convex&logoColor=white)
 
-# 📊 GitHub Stats:
-
-<div>
-  <picture>
-    <source
-      srcset="https://my-own-github-readme-stats-liart.vercel.app/api?username=qingjiatsang&theme=dark&hide_border=false&show_icons=true&custom_title=Qingjia%20Tsang%27s%20GitHub%20Stats&icon_color=6366f1&title_color=6366f1&hide=issues,prs&cache_seconds=1800"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://my-own-github-readme-stats-liart.vercel.app/api?username=qingjiatsang&theme=buefy&hide_border=false&show_icons=true&custom_title=Qingjia%20Tsang%27s%20GitHub%20Stats&icon_color=6366f1&title_color=6366f1&hide=issues,prs&cache_seconds=1800" width="350px" />
-  </picture>
-  <br/>
-  <picture>
-    <source
-      srcset="https://my-own-github-readme-streak-stats.vercel.app/?user=qingjiatsang&theme=dark&hide_border=false&ring_color=6366f1&fire_color=6366f1&currStreakLabel_color=6366f1&cache_seconds=1800"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://my-own-github-readme-streak-stats.vercel.app/?user=qingjiatsang&theme=buefy&hide_border=false&ring_color=6366f1&fire_color=6366f1&currStreakLabel_color=6366f1&cache_seconds=1800" width="350px" />
-  </picture>
-  <br/>
-  <picture>
-    <source
-      srcset="https://my-own-github-readme-stats-liart.vercel.app/api/top-langs/?username=qingjiatsang&theme=dark&hide_border=false&layout=compact&title_color=6366f1&cache_seconds=1800"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://my-own-github-readme-stats-liart.vercel.app/api/top-langs/?username=qingjiatsang&theme=buefy&hide_border=false&layout=compact&title_color=6366f1&cache_seconds=1800" width="350px" />
-  </picture>
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div>
