@@ -37,7 +37,7 @@ I believe in:
 
 ## 🌐 Socials:
 
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="25" height="25">](https://x.com/JohnLocke72__) &nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25" height="25">](https://linkedin.com/in/Qingjia_Tsang) &nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="25" height="25">](mailto:johnlocke12321@gmail.com)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" width="25" height="25">](https://x.com/JohnLocke72__) &nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25" height="25">](https://linkedin.com/in/qingjiatsang) &nbsp;&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="25" height="25">](mailto:johnlocke12321@gmail.com)
 
 # 💻 Tech Stack:
 
