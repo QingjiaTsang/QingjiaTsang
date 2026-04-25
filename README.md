@@ -61,20 +61,13 @@ I believe in:
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=flat&logo=appwrite&logoColor=white) ![Convex](https://img.shields.io/badge/Convex-FF4154?style=flat&logo=convex&logoColor=white)
 
-## 🏆 GitHub Trophies
-
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=qingjiatsang&theme=flat&no-frame=true&column=5&margin-w=15&margin-h=15&rank=-?&title=Commits,Issues,PullRequest,Repositories,Stars,Followers&no-bg=true" />
-</div>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=qingjiatsang&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QingjiaTsang/QingjiaTsang/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QingjiaTsang/QingjiaTsang/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/QingjiaTsang/QingjiaTsang/output/github-snake.svg" />
-</picture>
+<img
+  alt="github-snake"
+  src="https://raw.githubusercontent.com/QingjiaTsang/QingjiaTsang/output/ocean.gif"
+/>
